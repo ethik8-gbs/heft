@@ -8,7 +8,7 @@ Der gesamte Inhalt in `index.html` ist mit dem Klassenpasswort verschlüsselt (A
 |---|---|
 | `index.html` | das Heft, Inhalt verschlüsselt; im Klartext nur Tür, Schriften und Code |
 | `manifest.webmanifest`, `icon-180.png`, `icon-512.png` | „Zum Home-Bildschirm“ auf dem iPad |
-| `medien/*.bin` | neun Videos für die Klasse, einzeln mit dem Klassenpasswort verschlüsselt (AES-256-GCM); ohne Passwort nur Datenrauschen |
+| `medien/*.bin` | neun Videos und eine Hörstelle für die Klasse, einzeln mit dem Klassenpasswort verschlüsselt (AES-256-GCM); ohne Passwort nur Datenrauschen |
 | `probe/` | Probeumgebung: `index.html`, `manifest.webmanifest`, Symbole; Adresse `…/probe/` (die Beispieldateien bleiben lokal) |
 | `medien/LIZENZ.md` | Lizenz und Löschfrist (19.05.2027) |
 
